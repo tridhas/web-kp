@@ -1,0 +1,3988 @@
+{
+  "biaya_sekarang": {
+    "badmin": "11000",
+    "pot": "0",
+    "tarifkub": "7500"
+  },
+  "bukti_pembayaran": {
+    "A-03": {
+      "blok": "A-03",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pembayaran-air-90c31.appspot.com/o/bukti_pembayaran%2FA-03?alt=media&token=57f612c6-ba7f-40d8-845b-06e83c19809e",
+      "name": "Oviyanti Mulyana",
+      "periode": "Juli 2020",
+      "tagihan": "49700"
+    },
+    "A-12": {
+      "blok": "A-12",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pembayaran-air-90c31.appspot.com/o/bukti_pembayaran%2FA-12?alt=media&token=d33b142d-d314-48e2-b609-bb08c1868d17",
+      "name": "Teguh Santoso",
+      "periode": "Juni 2020",
+      "tagihan": "198500"
+    }
+  },
+  "data_biaya": {
+    "16-Jul-2020 01:30:58": {
+      "badmin": "11000",
+      "formattedDate": "16-Jul-2020 01:30:58",
+      "pot": "30",
+      "tarifkub": "7500"
+    },
+    "16-Jul-2020 01:30:59": {
+      "badmin": "11000",
+      "formattedDate": "16-Jul-2020 01:30:59",
+      "pot": "30",
+      "tarifkub": "7500"
+    },
+    "16-Jul-2020 01:51:25": {
+      "badmin": "12000",
+      "formattedDate": "16-Jul-2020 01:51:25",
+      "pot": "10",
+      "tarifkub": "8000"
+    }
+  },
+  "data_pelanggan": {
+    "A-03": {
+      "badmin": "11000",
+      "blok": "A-03",
+      "makhir": "799",
+      "mawal": "796",
+      "name": "Oviyanti Mulyana",
+      "periodeterakhir": "Oktober 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "33500",
+      "tarifkub": "7500",
+      "totalbiaya": "33500",
+      "totalm": "3"
+    },
+    "A-07_08": {
+      "badmin": "11000",
+      "blok": "A-07_08",
+      "makhir": "882",
+      "mawal": "871",
+      "name": "Asep Indrawan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "93500",
+      "tarifkub": "7500",
+      "totalbiaya": "93500",
+      "totalm": "11"
+    },
+    "A-12": {
+      "badmin": "11000",
+      "blok": "A-12",
+      "makhir": "1348",
+      "mawal": "1333",
+      "name": "Teguh Santoso",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Sudah",
+      "tagihan": "123500",
+      "tarifkub": "7500",
+      "totalbiaya": "0",
+      "totalm": "15"
+    },
+    "A-14": {
+      "badmin": "11000",
+      "blok": "A-14",
+      "makhir": "1007",
+      "mawal": "997",
+      "name": "Suryana",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "86000",
+      "tarfikub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "A-17": {
+      "badmin": "11000",
+      "blok": "A-17",
+      "makhir": "160",
+      "mawal": "141",
+      "name": "Fajar",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "153500",
+      "tarifkub": "7500",
+      "totalbiaya": "153500",
+      "totalm": "19"
+    },
+    "A-19": {
+      "badmin": "11000",
+      "blok": "A-19",
+      "makhir": "958",
+      "mawal": "938",
+      "name": "Yuli Indra Gunawan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "161000",
+      "tarifkub": "7500",
+      "totalbiaya": "161000",
+      "totalm": "20"
+    },
+    "A-20": {
+      "badmin": "11000",
+      "blok": "A-20",
+      "makhir": "1202",
+      "mawal": "1202",
+      "name": "Nonoy Handayani",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "A-21": {
+      "badmin": "11000",
+      "blok": "A-21",
+      "makhir": "657",
+      "mawal": "642",
+      "name": "Ryan Wardhana",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "123500",
+      "tarifkub": "7500",
+      "totalbiaya": "123500",
+      "totalm": "15"
+    },
+    "A-22": {
+      "badmin": "11000",
+      "blok": "A-22",
+      "makhir": "504",
+      "mawal": "504",
+      "name": "Budi Lesmana",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": 0
+    },
+    "A-23": {
+      "badmin": "11000",
+      "blok": "A-23",
+      "makhir": "380",
+      "mawal": "336",
+      "name": "",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "341000",
+      "tarifkub": "7500",
+      "totalbiaya": "341000",
+      "totalm": "44"
+    },
+    "A-24": {
+      "badmin": "11000",
+      "blok": "A-24",
+      "makhir": "609",
+      "mawal": "606",
+      "name": "Daniez Pratio",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "33500",
+      "tarifkub": "7500",
+      "totalbiaya": "33500",
+      "totalm": 3
+    },
+    "A-26": {
+      "badmin": "11000",
+      "blok": "A-26",
+      "makhir": "367",
+      "mawal": "362",
+      "name": "Nia Lusiana",
+      "periodeterakhir": "Agustus 2020",
+      "pot ": "0",
+      "status": "Belum",
+      "tagihan": "48500",
+      "tarifkub": "7500",
+      "totalbiaya": "48500",
+      "totalm": "5"
+    },
+    "A-3": {
+      "badmin": "11000",
+      "blok": "A-3",
+      "makhir": "834",
+      "mawal": "824",
+      "name": "Yus Diansyah",
+      "periodeterakhir": "September 2021",
+      "pot": "0",
+      "status": "Sudah",
+      "tagihan": "86000",
+      "tarifkub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "A-39": {
+      "badmin": "11000",
+      "blok": "A-39",
+      "makhir": "341",
+      "mawal": "330",
+      "name": "Nur Aliah Oktaviani",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "93500",
+      "tarifkub": "7500",
+      "totalbiaya": "93500",
+      "totalm": "11"
+    },
+    "A-4": {
+      "badmin": "11000",
+      "blok": "A-4",
+      "makhir": "93",
+      "mawal": "88",
+      "name": "Nia Lusiana",
+      "periodeterakhir": "September 2021",
+      "pot": "0",
+      "status": "Sudah",
+      "tagihan": "48500",
+      "tarifkub": "7500",
+      "totalbiaya": "48500",
+      "totalm": "5"
+    },
+    "A-40": {
+      "badmin": "11000",
+      "blok": "A-40",
+      "makhir": "718",
+      "mawal": "705",
+      "name": "Butet Sariaksih",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "108500",
+      "tarifkub": "7500",
+      "totalbiaya": "108500",
+      "totalm": "13"
+    },
+    "A-41": {
+      "badmin": "11000",
+      "blok": "A-41",
+      "makhir": "1010",
+      "mawal": "998",
+      "name": "Yulhandra Eka S",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "101000",
+      "tarifkub": "7500",
+      "totalbiaya": "101000",
+      "totalm": "12"
+    },
+    "A-42": {
+      "badmin": "11000",
+      "blok": "A-42",
+      "makhir": "989",
+      "mawal": "973",
+      "name": "Dewi Aryanti",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "131000",
+      "tarifkub": "7500",
+      "totalbiaya": "131000",
+      "totalm": "16"
+    },
+    "A-43": {
+      "badmin": "11000",
+      "blok": "A-43",
+      "makhir": "1365",
+      "mawal": "1350",
+      "name": "R. Kiki Aziz",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "123500",
+      "tarifkub": "7500",
+      "totalbiaya": "123500",
+      "totalm": "15"
+    },
+    "A-44": {
+      "badmin": "11000",
+      "blok": "A-44",
+      "makhir": "353",
+      "mawal": "353",
+      "name": "Ari Ariefani",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "A-45": {
+      "badmin": "11000",
+      "blok": "A-45",
+      "makhir": "109",
+      "mawal": "109",
+      "name": "Cece",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "A-46": {
+      "badmin": "11000",
+      "blok": "A-46",
+      "makhir": "2",
+      "mawal": "2",
+      "name": "Ramzi Dasteti",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "A-47": {
+      "badmin": "11000",
+      "blok": "A-47",
+      "makhir": "896",
+      "mawal": "886",
+      "name": "Mely Melanjaya",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "86000",
+      "tarifkub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "A-48": {
+      "badmin": "11000",
+      "blok": "A-48",
+      "makhir": "858",
+      "mawal": "850",
+      "name": "Archi Yusafat",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "71000",
+      "tarifkub": "7500",
+      "totalbiaya": "71000",
+      "totalm": "8"
+    },
+    "A-49": {
+      "badmin": "11000",
+      "blok": "A-49",
+      "makhir": "1905",
+      "mawal": "1886",
+      "name": "Jaka Silistijana",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "153500",
+      "tarifkub": "7500",
+      "totalbiaya": "153500",
+      "totalm": "19"
+    },
+    "A-50": {
+      "badmin": "11000",
+      "blok": "A-50",
+      "makhir": "463",
+      "mawal": "448",
+      "name": "Dede Slamet Muharam",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "123500",
+      "tarifkub": "7500",
+      "totalbiaya": "123500",
+      "totalm": "15"
+    },
+    "A-51": {
+      "badmin": "11000",
+      "blok": "A-51",
+      "makhir": "789",
+      "mawal": "789",
+      "name": "Nurul Hayati",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "A-53": {
+      "badmin": "11000",
+      "blok": "A-53",
+      "makhir": "890",
+      "mawal": "880",
+      "name": "Endi",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "86000",
+      "tarifkub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "A-55": {
+      "badmin": "11000",
+      "blok": "A-55",
+      "makhir": "349",
+      "mawal": "337",
+      "name": "Asep",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "101000",
+      "tarifkub": "7500",
+      "totalbiaya": "101000",
+      "totalm": "12"
+    },
+    "A-56": {
+      "badmin": "11000",
+      "blok": "A-56",
+      "makhir": "787",
+      "mawal": "787",
+      "name": "Argo",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "A-57": {
+      "badmin": "11000",
+      "blok": "A-57",
+      "makhir": "480",
+      "mawal": "476",
+      "name": "Mellia Febrianti",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "41000",
+      "tarifkub": "7500",
+      "totalbiaya": "41000",
+      "totalm": "4"
+    },
+    "A-58": {
+      "badmin": "11000",
+      "blok": "A-58",
+      "makhir": "1897",
+      "mawal": "1870",
+      "name": "Didi Kurniawan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "213500",
+      "tarifkub": "7500",
+      "totalbiaya": "213500",
+      "totalm": "27"
+    },
+    "A-59": {
+      "badmin": "11000",
+      "blok": "A-59",
+      "makhir": "1072",
+      "mawal": "1062",
+      "name": "Arief Susanto",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "86000",
+      "tarifkub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "A-6": {
+      "badmin": "11000",
+      "blok": "A-6",
+      "makhir": "760",
+      "mawal": "749",
+      "name": "Ryan Prakoso",
+      "periodeterakhir": "September 2021",
+      "pot": "0",
+      "status": "Sudah",
+      "tagihan": "93500",
+      "tarifkub": "7500",
+      "totalbiaya": "93500",
+      "totalm": "11"
+    },
+    "A-61": {
+      "badmin": "11000",
+      "blok": "A-61",
+      "makhir": "1021",
+      "mawal": "1009",
+      "name": "Sandy Rudianto",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "101000",
+      "tarifkub": "7500",
+      "totalbiaya": "101000",
+      "totalm": "12"
+    },
+    "A-62": {
+      "badmin": "11000",
+      "blok": "A-62",
+      "makhir": "133",
+      "mawal": "133",
+      "name": "Sutriyono",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "A-67": {
+      "badmin": "11000",
+      "blok": "A-67",
+      "makhir": "1445",
+      "mawal": "1415",
+      "name": "Heru Haryadi",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "236000",
+      "tarifkub": "7500",
+      "totalbiaya": "236000",
+      "totalm": "30"
+    },
+    "A-68": {
+      "badmin": "11000",
+      "blok": "A-68",
+      "makhir": "209",
+      "mawal": "203",
+      "name": "",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "56000",
+      "tarifkub": "7500",
+      "totalbiaya": "56000",
+      "totalm": "6"
+    },
+    "A-7": {
+      "badmin": "11000",
+      "blok": "A-7",
+      "makhir": "735",
+      "mawal": "732",
+      "name": "Aika Marah",
+      "periodeterakhir": "September 2021",
+      "pot": "0",
+      "status": "Sudah",
+      "tagihan": "33500",
+      "tarifkub": "7500",
+      "totalbiaya": "33500",
+      "totalm": "3"
+    },
+    "A-72": {
+      "badmin": "11000",
+      "blok": "A-72",
+      "makhir": "474",
+      "mawal": "467",
+      "name": "Wahyudi Joko Santoso",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "63500",
+      "tarifkub": "7500",
+      "totalbiaya": "63500",
+      "totalm": "7"
+    },
+    "A-73": {
+      "badmin": "11000",
+      "blok": "A-73",
+      "makhir": "499",
+      "mawal": "498",
+      "name": "Nina Sumarni",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "18500",
+      "tarifkub": "7500",
+      "totalbiaya": "18500",
+      "totalm": "1"
+    },
+    "A-77": {
+      "badmin": "11000",
+      "blok": "A-77",
+      "makhir": "120",
+      "mawal": "117",
+      "name": "Beny Setiyanto",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "33500",
+      "tarifkub": "7500",
+      "totalbiaya": "33500",
+      "totalm": "3"
+    },
+    "A-78": {
+      "badmin": "11000",
+      "blok": "A-78",
+      "makhir": "2",
+      "mawal": "-8",
+      "name": "Ibu Devi",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "86000",
+      "tarifkub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "A-79": {
+      "badmin": "11000",
+      "blok": "A-79",
+      "makhir": "1432",
+      "mawal": "1407",
+      "name": "Drs. Faisal",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "198500",
+      "tarifkub": "7500",
+      "totalbiaya": "198500",
+      "totalm": "25"
+    },
+    "A-8": {
+      "badmin": "11000",
+      "blok": "A-8",
+      "makhir": "655",
+      "mawal": "631",
+      "name": "Linda Yani",
+      "periodeterakhir": "September 2021",
+      "pot": "0",
+      "status": "Sudah",
+      "tagihan": "191000",
+      "tarifkub": "7500",
+      "totalbiaya": "191000",
+      "totalm": "24"
+    },
+    "A-80": {
+      "badmin": "11000",
+      "blok": "A-80",
+      "makhir": "803",
+      "mawal": "789",
+      "name": "Putra",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "116000",
+      "tarifkub": "0",
+      "totalbiaya": "116000",
+      "totalm": "14"
+    },
+    "A-83": {
+      "badmin": "11000",
+      "blok": "A-83",
+      "makhir": "512",
+      "mawal": "499",
+      "name": "Fahmy Afriansyah",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "108500",
+      "tarifkub": "0",
+      "totalbiaya": "108500",
+      "totalm": "13"
+    },
+    "A-85": {
+      "badmin": "11000",
+      "blok": "A-85",
+      "makhir": "1524",
+      "mawal": "1500",
+      "name": "Teguh Riyanto",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "191000",
+      "tarifkub": "0",
+      "totalbiaya": "191000",
+      "totalm": "24"
+    },
+    "A-86": {
+      "badmin": "11000",
+      "blok": "A-86",
+      "makhir": "1130",
+      "mawal": "1116",
+      "name": "Drs. Nani Rohmani",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "116000",
+      "tarifkub": "0",
+      "totalbiaya": "116000",
+      "totalm": "14"
+    },
+    "A-88": {
+      "badmin": "11000",
+      "blok": "A-88",
+      "makhir": "678",
+      "mawal": "670",
+      "name": "Linda Yani",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "71000",
+      "tarifkub": "0",
+      "totalbiaya": "71000",
+      "totalm": "8"
+    },
+    "A-90": {
+      "badmin": "11000",
+      "blok": "A-90",
+      "makhir": "257",
+      "mawal": "250",
+      "name": "Ibu Alfi",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "63500",
+      "tarifkub": "0",
+      "totalbiaya": "63500",
+      "totalm": "7"
+    },
+    "A-93": {
+      "badmin": "11000",
+      "blok": "A-93",
+      "makhir": "729",
+      "mawal": "701",
+      "name": "Aditya",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "221000",
+      "tarifkub": "7500",
+      "totalbiaya": "221000",
+      "totalm": "28"
+    },
+    "B-02": {
+      "badmin": "11000",
+      "blok": "B-02",
+      "makhir": "557",
+      "mawal": "555",
+      "name": "Muhammad Hanafia",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "26000",
+      "tarifkub": "7500",
+      "totalbiaya": "26000",
+      "totalm": "2"
+    },
+    "B-03": {
+      "badmin": "11000",
+      "blok": "B-03",
+      "makhir": "49",
+      "mawal": "32",
+      "name": "Ernest Christika",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "138500",
+      "tarifkub": "7500",
+      "totalbiaya": "138500",
+      "totalm": "17"
+    },
+    "B-04": {
+      "badmin": "11000",
+      "blok": "B-04",
+      "makhir": "1130",
+      "mawal": "1125",
+      "name": "I Nyoman Darmana",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "48500",
+      "tarifkub": "7500",
+      "totalbiaya": "48500",
+      "totalm": "5"
+    },
+    "B-07": {
+      "badmin": "11000",
+      "blok": "B-07",
+      "makhir": "1337",
+      "mawal": "1309",
+      "name": "Tugiman",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "221000",
+      "tarifkub": "7500",
+      "totalbiaya": "221000",
+      "totalm": "28"
+    },
+    "B-10": {
+      "badmin": "11000",
+      "blok": "B-10",
+      "makhir": "932",
+      "mawal": "924",
+      "name": "Priono",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "71000",
+      "tarifkub": "7500",
+      "totalbiaya": "71000",
+      "totalm": "8"
+    },
+    "B-100": {
+      "badmin": "11000",
+      "blok": "B-100",
+      "makhir": "927",
+      "mawal": "926",
+      "name": "Rifka Kusumawati",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "18500",
+      "tarifkub": "7500",
+      "totalbiaya": "18500",
+      "totalm": "1"
+    },
+    "B-104": {
+      "badmin": "11000",
+      "blok": "B-104",
+      "makhir": "1017",
+      "mawal": "1002",
+      "name": "Windu Zulkarnaen O",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "123500",
+      "tarifkub": "7500",
+      "totalbiaya": "123500",
+      "totalm": "15"
+    },
+    "B-105": {
+      "badmin": "11000",
+      "blok": "B-105",
+      "makhir": "424",
+      "mawal": "411",
+      "name": "Ros Roswati",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "108500",
+      "tarifkub": "7500",
+      "totalbiaya": "108500",
+      "totalm": "13"
+    },
+    "B-106": {
+      "badmin": "11000",
+      "blok": "B-106",
+      "makhir": "193",
+      "mawal": "174",
+      "name": "Rina Agustiana",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "153500",
+      "tarifkub": "7500",
+      "totalbiaya": "153500",
+      "totalm": "19"
+    },
+    "B-109": {
+      "badmin": "11000",
+      "blok": "B-109",
+      "makhir": "742",
+      "mawal": "724",
+      "name": "Ibrahim",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "146000",
+      "tarifkub": "7500",
+      "totalbiaya": "146000",
+      "totalm": "18"
+    },
+    "B-11": {
+      "badmin": "11000",
+      "blok": "B-11",
+      "makhir": "1149",
+      "mawal": "1137",
+      "name": "Meliana Yukiki/Yoyoh",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "101000",
+      "tarifkub": "7500",
+      "totalbiaya": "101000",
+      "totalm": "12"
+    },
+    "B-113": {
+      "badmin": "11000",
+      "blok": "B-113",
+      "makhir": "259",
+      "mawal": "259",
+      "name": "Cecep Budi Nugraha",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "B-114": {
+      "badmin": "11000",
+      "blok": "B-114",
+      "makhir": "1256",
+      "mawal": "1250",
+      "name": "M. Muhlis",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "56000",
+      "tarifkub": "7500",
+      "totalbiaya": "56000",
+      "totalm": "6"
+    },
+    "B-115": {
+      "badmin": "11000",
+      "blok": "B-115",
+      "makhir": "1085",
+      "mawal": "1065",
+      "name": "Dedi",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "161000",
+      "tarifkub": "7500",
+      "totalbiaya": "161000",
+      "totalm": "20"
+    },
+    "B-117": {
+      "badmin": "11000",
+      "blok": "B-117",
+      "makhir": "1004",
+      "mawal": "991",
+      "name": "Triswoto",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "108500",
+      "tarifkub": "7500",
+      "totalbiaya": "108500",
+      "totalm": "13"
+    },
+    "B-12": {
+      "badmin": "11000",
+      "blok": "B-12",
+      "makhir": "1204",
+      "mawal": "1186",
+      "name": "R. Rizkiy Farenda",
+      "periodeterakhir": "Agustus 2020",
+      "pot ": "0",
+      "status": "Belum",
+      "tagihan": "146000",
+      "tarifkub": "7500",
+      "totalbiaya": "146000",
+      "totalm": "18"
+    },
+    "B-121": {
+      "badmin": "11000",
+      "blok": "B-121",
+      "makhir": "35",
+      "mawal": "35",
+      "name": "Wawan B",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "B-127": {
+      "badmin": "11000",
+      "blok": "B-127",
+      "makhir": "1154",
+      "mawal": "1138",
+      "name": "Lestari/Agung Mungki",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "131000",
+      "tarifkub": "7500",
+      "totalbiaya": "131000",
+      "totalm": "16"
+    },
+    "B-130": {
+      "badmin": "11000",
+      "blok": "B-130",
+      "makhir": "1244",
+      "mawal": "1229",
+      "name": "Ayi Hermanto",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "123500",
+      "tarifkub": "7500",
+      "totalbiaya": "123500",
+      "totalm": "15"
+    },
+    "B-16": {
+      "badmin": "11000",
+      "blok": "B-16",
+      "makhir": "289",
+      "mawal": "279",
+      "name": "",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "86000",
+      "tarifkub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "B-18": {
+      "badmin": "11000",
+      "blok": "B-18",
+      "makhir": "160",
+      "mawal": "150",
+      "name": "",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "86000",
+      "tarifkub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "B-19": {
+      "badmin": "11000",
+      "blok": "B-19",
+      "makhir": "1221",
+      "mawal": "1194",
+      "name": "Setiyono",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "213500",
+      "tarifkub": "7500",
+      "totalbiaya": "213500",
+      "totalm": "27"
+    },
+    "B-21": {
+      "badmin": "11000",
+      "blok": "B-21",
+      "makhir": "907",
+      "mawal": "879",
+      "name": "Rofik Insani",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "221000",
+      "tarifkub": "7500",
+      "totalbiaya": "221000",
+      "totalm": "28"
+    },
+    "B-22": {
+      "badmin": "11000",
+      "blok": "B-22",
+      "makhir": "160",
+      "mawal": "160",
+      "name": "Gun-Gun Gunawan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "B-24": {
+      "badmin": "11000",
+      "blok": "B-24",
+      "makhir": "523",
+      "mawal": "513",
+      "name": "Yani Iryani Maksoedi",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "86000",
+      "tarifkub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "B-25": {
+      "badmin": "11000",
+      "blok": "B-25",
+      "makhir": "663",
+      "mawal": "660",
+      "name": "Juliani",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "33500",
+      "tarifkub": "7500",
+      "totalbiaya": "33500",
+      "totalm": "3"
+    },
+    "B-26": {
+      "badmin": "11000",
+      "blok": "B-26",
+      "makhir": "253",
+      "mawal": "253",
+      "name": "Yusuf Abiyoko",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "B-27": {
+      "badmin": "11000",
+      "blok": "B-27",
+      "makhir": "822",
+      "mawal": "811",
+      "name": "Asep Nugraha",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "93500",
+      "tarifkub": "7500",
+      "totalbiaya": "93500",
+      "totalm": "11"
+    },
+    "B-28": {
+      "badmin": "11000",
+      "blok": "B-28",
+      "makhir": "1426",
+      "mawal": "1410",
+      "name": "Rachmat Setiawan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "131000",
+      "tarifkub": "7500",
+      "totalbiaya": "131000",
+      "totalm": "16"
+    },
+    "B-3": {
+      "badmin": "11000",
+      "blok": "B-3",
+      "makhir": "90",
+      "mawal": "65",
+      "name": "Nina Suhaemi",
+      "periodeterakhir": "September 2021",
+      "pot": "0",
+      "status": "Sudah",
+      "tagihan": "198500",
+      "tarifkub": "7500",
+      "totalbiaya": "198500",
+      "totalm": "25"
+    },
+    "B-32": {
+      "badmin": "11000",
+      "blok": "B-32",
+      "makhir": "170",
+      "mawal": "152",
+      "name": "Mariono",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "146000",
+      "tarifkub": "7500",
+      "totalbiaya": "146000",
+      "totalm": "18"
+    },
+    "B-33": {
+      "badmin": "11000",
+      "blok": "B-33",
+      "makhir": "603",
+      "mawal": "602",
+      "name": "Ibu Nenden",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "18500",
+      "tarifkub": "7500",
+      "totalbiaya": "18500",
+      "totalm": "1"
+    },
+    "B-38": {
+      "badmin": "11000",
+      "blok": "B-38",
+      "makhir": "1839",
+      "mawal": "1827",
+      "name": "Arif Budiman",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "101000",
+      "tarifkub": "7500",
+      "totalbiaya": "101000",
+      "totalm": "12"
+    },
+    "B-44": {
+      "badmin": "11000",
+      "blok": "B-44",
+      "makhir": "487",
+      "mawal": "478",
+      "name": "H. Jamal Ahmad Maretan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "78500",
+      "tarifkub": "7500",
+      "totalbiaya": "78500",
+      "totalm": "9"
+    },
+    "B-46": {
+      "badmin": "11000",
+      "blok": "B-46",
+      "makhir": "801",
+      "mawal": "791",
+      "name": "Upik A. P",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "86000",
+      "tarifkub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "B-47": {
+      "badmin": "11000",
+      "blok": "B-47",
+      "makhir": "178",
+      "mawal": "178",
+      "name": "Josaf Purnama",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "B-48": {
+      "badmin": "11000",
+      "blok": "B-48",
+      "makhir": "1158",
+      "mawal": "1135",
+      "name": "Darmawan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "183500",
+      "tarifkub": "7500",
+      "totalbiaya": "183500",
+      "totalm": "23"
+    },
+    "B-49": {
+      "badmin": "11000",
+      "blok": "B-49",
+      "makhir": "349",
+      "mawal": "340",
+      "name": "Haris Rohman",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "78500",
+      "tarifkub": "7500",
+      "totalbiaya": "78500",
+      "totalm": "9"
+    },
+    "B-5": {
+      "badmin": "11000",
+      "blok": "B-5",
+      "makhir": "32",
+      "mawal": "30",
+      "name": "Putra Zul",
+      "periodeterakhir": "September 2021",
+      "pot": "0",
+      "status": "Sudah",
+      "tagihan": "26000",
+      "tarifkub": "7500",
+      "totalbiaya": "26000",
+      "totalm": "2"
+    },
+    "B-55": {
+      "badmin": "11000",
+      "blok": "B-55",
+      "makhir": "1266",
+      "mawal": "1251",
+      "name": "Chasani",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "123500",
+      "tarifkub": "7500",
+      "totalbiaya": "123500",
+      "totalm": "15"
+    },
+    "B-56": {
+      "badmin": "11000",
+      "blok": "B-56",
+      "makhir": "1135",
+      "mawal": "1129",
+      "name": "Indra Gunawan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "56000",
+      "tarifkub": "7500",
+      "totalbiaya": "56000",
+      "totalm": "6"
+    },
+    "B-57": {
+      "badmin": "11000",
+      "blok": "B-57",
+      "makhir": "1301",
+      "mawal": "1288",
+      "name": "Hari Sunarto",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "108500",
+      "tarifkub": "7500",
+      "totalbiaya": "108500",
+      "totalm": "13"
+    },
+    "B-58": {
+      "badmin": "11000",
+      "blok": "B-58",
+      "makhir": "980",
+      "mawal": "967",
+      "name": "Lya Arliani",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "108500",
+      "tarifkub": "7500",
+      "totalbiaya": "108500",
+      "totalm": "13"
+    },
+    "B-59_60": {
+      "badmin": "11000",
+      "blok": "B-59_60",
+      "makhir": "117",
+      "mawal": "115",
+      "name": "Nursalim",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "26000",
+      "tarifkub": "7500",
+      "totalbiaya": "26000",
+      "totalm": "2"
+    },
+    "B-6": {
+      "badmin": "11000",
+      "blok": "B-6",
+      "makhir": "292",
+      "mawal": "277",
+      "name": "Asep",
+      "periodeterakhir": "September 2021",
+      "pot": "0",
+      "status": "Sudah",
+      "tagihan": "123500",
+      "tarifkub": "7500",
+      "totalbiaya": "123500",
+      "totalm": "15"
+    },
+    "B-62": {
+      "badmin": "11000",
+      "blok": "B-62",
+      "makhir": "247",
+      "mawal": "245",
+      "name": "",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "26000",
+      "tarifkub": "7500",
+      "totalbiaya": "26000",
+      "totalm": "2"
+    },
+    "B-63": {
+      "badmin": "11000",
+      "blok": "B-63",
+      "makhir": "1233",
+      "mawal": "1222",
+      "name": "Ela Helariani",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "93500",
+      "tarifkub": "7500",
+      "totalbiaya": "93500",
+      "totalm": "11"
+    },
+    "B-64": {
+      "badmin": "11000",
+      "blok": "B-64",
+      "makhir": "866",
+      "mawal": "866",
+      "name": "H. Adiyono",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "B-66": {
+      "badmin": "11000",
+      "blok": "B-66",
+      "makhir": "1181",
+      "mawal": "1170",
+      "name": "Ridwan Setiawan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "93500",
+      "tarifkub": "7500",
+      "totalbiaya": "93500",
+      "totalm": "11"
+    },
+    "B-68": {
+      "badmin": "11000",
+      "blok": "B-68",
+      "makhir": "330",
+      "mawal": "316",
+      "name": "",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "116000",
+      "tarifkub": "7500",
+      "totalbiaya": "116000",
+      "totalm": "14"
+    },
+    "B-69": {
+      "badmin": "11000",
+      "blok": "B-69",
+      "makhir": "110",
+      "mawal": "87",
+      "name": "Muslim",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "183500",
+      "tarifkub": "7500",
+      "totalbiaya": "183500",
+      "totalm": "23"
+    },
+    "B-7": {
+      "badmin": "11000",
+      "blok": "B-7",
+      "makhir": "720",
+      "mawal": "705",
+      "name": "Rizky Farenda",
+      "periodeterakhir": "September 2021",
+      "pot": "0",
+      "status": "Sudah",
+      "tagihan": "123500",
+      "tarifkub": "7500",
+      "totalbiaya": "123500",
+      "totalm": "15"
+    },
+    "B-71": {
+      "badmin": "11000",
+      "blok": "B-71",
+      "makhir": "587",
+      "mawal": "586",
+      "name": "M. Sulhan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "18500",
+      "tarifkub": "7500",
+      "totalbiaya": "18500",
+      "totalm": "1"
+    },
+    "B-72": {
+      "badmin": "11000",
+      "blok": "B-72",
+      "makhir": "129",
+      "mawal": "129",
+      "name": "",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "B-76": {
+      "badmin": "11000",
+      "blok": "B-76",
+      "makhir": "1501",
+      "mawal": "1492",
+      "name": "Titis Kurniawan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "78500",
+      "tarifkub": "7500",
+      "totalbiaya": "78500",
+      "totalm": "9"
+    },
+    "B-77": {
+      "badmin": "11000",
+      "blok": "B-77",
+      "makhir": "1509",
+      "mawal": "1487",
+      "name": "Deviana Indarti",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "176000",
+      "tarifkub": "7500",
+      "totalbiaya": "176000",
+      "totalm": "22"
+    },
+    "B-8": {
+      "badmin": "11000",
+      "blok": "B-8",
+      "makhir": "405",
+      "mawal": "395",
+      "name": "Dewi Aryanti",
+      "periodeterakhir": "September 2021",
+      "pot": "0",
+      "status": "Sudah",
+      "tagihan": "86000",
+      "tarifkub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "B-82": {
+      "badmin": "11000",
+      "blok": "B-82",
+      "makhir": "8",
+      "mawal": "0",
+      "name": "Saptono/ Pipit Iriani",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "71000",
+      "tarifkub": "7500",
+      "totalbiaya": "71000",
+      "totalm": "8"
+    },
+    "B-83": {
+      "badmin": "11000",
+      "blok": "B-83",
+      "makhir": "360",
+      "mawal": "358",
+      "name": "Mulyadi",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "26000",
+      "tarifkub": "7500",
+      "totalbiaya": "26000",
+      "totalm": "2"
+    },
+    "B-84": {
+      "badmin": "11000",
+      "blok": "B-84",
+      "makhir": "818",
+      "mawal": "807",
+      "name": "Tarkadirya",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "93500",
+      "tarifkub": "7500",
+      "totalbiaya": "93500",
+      "totalm": "11"
+    },
+    "B-85": {
+      "badmin": "11000",
+      "blok": "B-85",
+      "makhir": "651",
+      "mawal": "635",
+      "name": "Bachtiar Ibrahim",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "131000",
+      "tarifkub": "7500",
+      "totalbiaya": "131000",
+      "totalm": "16"
+    },
+    "B-86": {
+      "badmin": "11000",
+      "blok": "B-86",
+      "makhir": "594",
+      "mawal": "581",
+      "name": "Sri Noviani Rahayu",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "108500",
+      "tarifkub": "7500",
+      "totalbiaya": "108500",
+      "totalm": "13"
+    },
+    "B-87": {
+      "badmin": "11000",
+      "blok": "B-87",
+      "makhir": "689",
+      "mawal": "671",
+      "name": "Yati Maryati",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "146000",
+      "tarifkub": "7500",
+      "totalbiaya": "146000",
+      "totalm": "18"
+    },
+    "B-88": {
+      "badmin": "11000",
+      "blok": "B-88",
+      "makhir": "612",
+      "mawal": "612",
+      "name": "Nenden Herliana",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "B-89": {
+      "badmin": "11000",
+      "blok": "B-89",
+      "makhir": "16",
+      "mawal": "0",
+      "name": "Edih",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "131000",
+      "tarifkub": "7500",
+      "totalbiaya": "131000",
+      "totalm": "16"
+    },
+    "B-90": {
+      "badmin": "11000",
+      "blok": "B-90",
+      "makhir": "1205",
+      "mawal": "1185",
+      "name": "Siti Wartini",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "161000",
+      "tarifkub": "7500",
+      "totalbiaya": "161000",
+      "totalm": "20"
+    },
+    "B-91": {
+      "badmin": "11000",
+      "blok": "B-91",
+      "makhir": "288",
+      "mawal": "288",
+      "name": "Cupian",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "B-92": {
+      "badmin ": "11000",
+      "blok": "B-92",
+      "makhir": "366",
+      "mawal": "356",
+      "name": "Lumban Tobing",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "86000",
+      "tarifkub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "B-94": {
+      "badmin": "11000",
+      "blok": "B-94",
+      "makhir": "796",
+      "mawal": "796",
+      "name": "Muida Aryani",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "B-95": {
+      "badmin": "11000",
+      "blok": "B-95",
+      "makhir": "1519",
+      "mawal": "1501",
+      "name": "Rita",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "146000",
+      "tarifkub": "7500",
+      "totalbiaya": "146000",
+      "totalm": "18"
+    },
+    "B-96": {
+      "badmin": "11000",
+      "blok": "B-96",
+      "makhir": "493",
+      "mawal": "487",
+      "name": "Iyan Nurmalia",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "56000",
+      "tarifkub": "7500",
+      "totalbiaya": "56000",
+      "totalm": "6"
+    },
+    "B-99": {
+      "badmin": "11000",
+      "blok": "B-99",
+      "makhir": "465",
+      "mawal": "465",
+      "name": "Risnanta",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "C-07": {
+      "badmin": "11000",
+      "blok": "C-07",
+      "makhir": "611",
+      "mawal": "605",
+      "name": "Rana Rahmada",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "56000",
+      "tarifkub": "7500",
+      "totalbiaya": "56000",
+      "totalm": "6"
+    },
+    "C-08": {
+      "badmin": "11000",
+      "blok": "C-08",
+      "makhir": "334",
+      "mawal": "334",
+      "name": "Adi",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "C-118": {
+      "badmin": "11000",
+      "blok": "C-118",
+      "makhir": "561",
+      "mawal": "547",
+      "name": "Lian",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "116000",
+      "tarifkub": "7500",
+      "totalbiaya": "116000",
+      "totalm": "14"
+    },
+    "C-15": {
+      "badmin": "11000",
+      "blok": "C-15",
+      "makhir": "528",
+      "mawal": "524",
+      "name": "",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "41000",
+      "tarifkub": "7500",
+      "totalbiaya": "41000",
+      "totalm": "4"
+    },
+    "C-18": {
+      "badmin": "11000",
+      "blok": "C-18",
+      "makhir": "99",
+      "mawal": "99",
+      "name": "",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "C-20": {
+      "badmin": "11000",
+      "blok": "C-20",
+      "makhir": "139",
+      "mawal": "138",
+      "name": "Endon",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "18500",
+      "tarifkub": "7500",
+      "totalbiaya": "18500",
+      "totalm": "1"
+    },
+    "C-25": {
+      "badmin": "11000",
+      "blok": "C-25",
+      "makhir": "886",
+      "mawal": "877",
+      "name": "Neng Intan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "78500",
+      "tarifkub": "7500",
+      "totalbiaya": "78500",
+      "totalm": "9"
+    },
+    "C-26": {
+      "badmin": "11000",
+      "blok": "C-26",
+      "makhir": "1668",
+      "mawal": "1655",
+      "name": "Lisa",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "108500",
+      "tarifkub": "7500",
+      "totalbiaya": "108500",
+      "totalm": "13"
+    },
+    "C-27": {
+      "badmin": "11000",
+      "blok": "C-27",
+      "makhir": "850",
+      "mawal": "835",
+      "name": "Wahyudin",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "123500"
+    },
+    "C-28": {
+      "badmin": "11000",
+      "blok": "C-28",
+      "makhir": "1563",
+      "mawal": "1536",
+      "name": "Heru Supriatno",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "213500",
+      "tarifkub": "7500",
+      "totalbiaya": "213500",
+      "totalm": "27"
+    },
+    "C-30": {
+      "badmin": "11000",
+      "blok": "C-30",
+      "makhir": "56",
+      "mawal": "56",
+      "name": "Rival",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "C-31": {
+      "badmin": "11000",
+      "blok": "C-31",
+      "makhir": "263",
+      "mawal": "261",
+      "name": "Ambardi",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "26000",
+      "tarifkub": "7500",
+      "totalbiaya": "26000",
+      "totalm": "2"
+    },
+    "C-32": {
+      "badmin": "11000",
+      "blok": "C-32",
+      "makhir": "1826",
+      "mawal": "1810",
+      "name": "Reni Nuraeni",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "131000",
+      "tarifkub": "7500",
+      "totalbiaya": "131000",
+      "totalm": "16"
+    },
+    "C-33": {
+      "badmin": "11000",
+      "blok": "C-33",
+      "makhir": "1403",
+      "mawal": "1395",
+      "name": "Rudi S Soeganda",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "71000",
+      "tarifkub": "7500",
+      "totalbiaya": "71000",
+      "totalm": "8"
+    },
+    "C-34": {
+      "badmin": "11000",
+      "blok": "C-34",
+      "makhir": "1082",
+      "mawal": "1058",
+      "name": "Yosi Arman",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "191000",
+      "tarifkub": "7500",
+      "totalbiaya": "191000",
+      "totalm": "24"
+    },
+    "C-35": {
+      "badmin": "11000",
+      "blok": "C-35",
+      "makhir": "709",
+      "mawal": "709",
+      "name": "Tatan Ardiyanto",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "C-36": {
+      "badmin": "11000",
+      "blok": "C-36",
+      "makhir": "114",
+      "mawal": "114",
+      "name": "Agus Sutrisna",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "C-41": {
+      "badmin": "11000",
+      "blok": "C-41",
+      "makhir": "901",
+      "mawal": "872",
+      "name": "Sony Kusnandar",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "228500",
+      "tarifkub": "7500",
+      "totalbiaya": "228500",
+      "totalm": "29"
+    },
+    "C-44": {
+      "badmin": "11000",
+      "blok": "C-44",
+      "makhir": "1222",
+      "mawal": "1208",
+      "name": "Dr. Wiganda",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "116000",
+      "tarifkub": "7500",
+      "totalbiaya": "116000",
+      "totalm": "14"
+    },
+    "C-45": {
+      "badmin": "11000",
+      "blok": "C-45",
+      "makhir": "330",
+      "mawal": "330",
+      "name": "Alin",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "C-46": {
+      "badmin": "11000",
+      "blok": "C-46",
+      "makhir": "346",
+      "mawal": "346",
+      "name": "A",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "C-47": {
+      "badmin": "11000",
+      "blok": "C-47",
+      "makhir": "1681",
+      "mawal": "1663",
+      "name": "A Uronsyah",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "146000",
+      "tarifkub": "7500",
+      "totalbiaya": "146000",
+      "totalm": "18"
+    },
+    "C-48": {
+      "badmin": "11000",
+      "blok": "C-48",
+      "makhir": "1521",
+      "mawal": "1504",
+      "name": "Cahyono Dwi Astoro",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "138500",
+      "tarifkub": "7500",
+      "totalbiaya": "138500",
+      "totalm": "17"
+    },
+    "C-51": {
+      "badmin": "11000",
+      "blok": "C-51",
+      "makhir": "1262",
+      "mawal": "1262",
+      "name": "H. Iwan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "C-54": {
+      "badmin": "11000",
+      "blok": "C-54",
+      "makhir": "192",
+      "mawal": "174",
+      "name": "",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "146000",
+      "tarifkub": "7500",
+      "totalbiaya": "146000",
+      "totalm": "18"
+    },
+    "C-55": {
+      "badmin": "11000",
+      "blok": "C-55",
+      "makhir": "200",
+      "mawal": "172",
+      "name": "Erick Yusuf",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "221000",
+      "tarifkub": "7500",
+      "totalbiaya": "221000",
+      "totalm": "28"
+    },
+    "C-56": {
+      "badmin": "11000",
+      "blok": "C-56",
+      "makhir": "592",
+      "mawal": "591",
+      "name": "Erick Yusuf",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "18500",
+      "tarifkub": "7500",
+      "totalbiaya": "18500",
+      "totalm": "1"
+    },
+    "C-59": {
+      "badmin": "11000",
+      "blok": "C-59",
+      "makhir": "1403",
+      "mawal": "1389",
+      "name": "Drs. Yudi Sudarya",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "116000",
+      "tarifkub": "7500",
+      "totalbiaya": "116000",
+      "totalm": "14"
+    },
+    "C-61": {
+      "badmin": "11000",
+      "blok": "C-61",
+      "makhir": "131",
+      "mawal": "131",
+      "name": "Bey Sapta Utama",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "11000",
+      "tarifkub": "7500",
+      "totalbiaya": "11000",
+      "totalm": "0"
+    },
+    "C-65": {
+      "badmin": "11000",
+      "blok": "C-65",
+      "makhir": "1386",
+      "mawal": "1373",
+      "name": "Farouk",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "108500",
+      "tarifkub": "7500",
+      "totalbiaya": "108500",
+      "totalm": "13"
+    },
+    "C-66": {
+      "badmin": "11000",
+      "blok": "C-66",
+      "makhir": "160",
+      "mawal": "155",
+      "name": "",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "48500",
+      "tarifkub": "7500",
+      "totalbiaya": "48500",
+      "totalm": "5"
+    },
+    "C-67": {
+      "badmin": "11000",
+      "blok": "C-67",
+      "makhir": "1113",
+      "mawal": "1104",
+      "name": "Nana Suryana",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "78500",
+      "tarifkub": "7500",
+      "totalbiaya": "78500",
+      "totalm": "9"
+    },
+    "C-68": {
+      "badmin": "11000",
+      "blok": "C-68",
+      "makhir": "878",
+      "mawal": "858",
+      "name": "Farid Rustandi",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "161000",
+      "tarifkub": "7500",
+      "totalbiaya": "161000",
+      "totalm": "20"
+    },
+    "C-70": {
+      "badmin": "11000",
+      "blok": "C-70",
+      "makhir": "1643",
+      "mawal": "1622",
+      "name": "Irwan Kurniawan",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "168500",
+      "tarifkub": "7500",
+      "totalbiaya": "168500",
+      "totalm": "21"
+    },
+    "C-73": {
+      "badmin": "11000",
+      "blok": "C-73",
+      "makhir": "1892",
+      "mawal": "1877",
+      "name": "Ida Nuryanti",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "123500",
+      "tarifkub": "7500",
+      "totalbiaya": "123500",
+      "totalm": "15"
+    },
+    "C-74": {
+      "badmin": "11000",
+      "blok": "C-74",
+      "makhir": "878",
+      "mawal": "858",
+      "name": "Fenny Jumiati",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "161000",
+      "tarifkub": "7500",
+      "totalbiaya": "161000",
+      "totalm": "20"
+    },
+    "C-76": {
+      "badmin": "11000",
+      "blok": "C-76",
+      "makhir": "1130",
+      "mawal": "1120",
+      "name": "Agung Wahana",
+      "periodeterakhir": "Oktober 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "86000",
+      "tarifkub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "C-80": {
+      "badmin": "11000",
+      "blok": "C-80",
+      "makhir": "133",
+      "mawal": "132",
+      "name": "Djaja Lalana",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "18500",
+      "tarifkub": "7500",
+      "totalbiaya": "18500",
+      "totalm": "1"
+    },
+    "C-83": {
+      "badmin": "11000",
+      "blok": "C-83",
+      "makhir": "190",
+      "mawal": "178",
+      "name": "Nanto",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "101000",
+      "tarifkub": "7500",
+      "totalbiaya": "101000",
+      "totalm": "12"
+    },
+    "C-96": {
+      "badmin": "11000",
+      "blok": "C-96",
+      "makhir": "86",
+      "mawal": "67",
+      "name": "Andri",
+      "periodeterakhir": "Agustus 2020",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "153500",
+      "tarifkub": "7500",
+      "totalbiaya": "153500",
+      "totalm": "19"
+    },
+    "S-1": {
+      "badmin": "11000",
+      "blok": "S-1",
+      "makhir": "473",
+      "mawal": "467",
+      "name": "Wahyu Nugroho",
+      "periodeterakhir": "November 2021",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "56000",
+      "tarifkub": "7500",
+      "totalbiaya": "56000",
+      "totalm": "6"
+    },
+    "S-10": {
+      "badmin": "11000",
+      "blok": "S-10",
+      "makhir": "1061",
+      "mawal": "1049",
+      "name": "Ilham Mustofa",
+      "periodeterakhir": "November 2021",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "101000",
+      "tarifkub": "7500",
+      "totalbiaya": "101000",
+      "totalm": "12"
+    },
+    "S-2": {
+      "badmin": "11000",
+      "blok": "S-2",
+      "makhir": "885",
+      "mawal": "875",
+      "name": "Risna Kurniawati",
+      "periodeterakhir": "November 2021",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "86000",
+      "tarifkub": "7500",
+      "totalbiaya": "86000",
+      "totalm": "10"
+    },
+    "S-3": {
+      "badmin": "11000",
+      "blok": "S-3",
+      "makhir": "35",
+      "mawal": "32",
+      "name": "Jaenudin",
+      "periodeterakhir": "November 2021",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "33500",
+      "tarifkub": "7500",
+      "totalbiaya": "33500",
+      "totalm": "3"
+    },
+    "S-4": {
+      "badmin": "11000",
+      "blok": "S-4",
+      "makhir": "68",
+      "mawal": "60",
+      "name": "M Aris",
+      "periodeterakhir": "November 2021",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "71000",
+      "tarifkub": "7500",
+      "totalbiaya": "71000",
+      "totalm": "8"
+    },
+    "S-5": {
+      "badmin": "11000",
+      "blok": "S-5",
+      "makhir": "216",
+      "mawal": "201",
+      "name": "Dedi Wahyudi",
+      "periodeterakhir": "November 2021",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "123500",
+      "tarifkub": "7500",
+      "totalbiaya": "123500",
+      "totalm": "15"
+    },
+    "S-6": {
+      "badmin": "11000",
+      "blok": "S-6",
+      "makhir": "90",
+      "mawal": "85",
+      "name": "Hermansyah",
+      "periodeterakhir": "November 2021",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "48500",
+      "tarifkub": "7500",
+      "totalbiaya": "48500",
+      "totalm": "5"
+    },
+    "S-7": {
+      "badmin": "11000",
+      "blok": "S-7",
+      "makhir": "695",
+      "mawal": "680",
+      "name": "Ishma Cynthia",
+      "periodeterakhir": "November 2021",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "123500",
+      "tarifkub": "7500",
+      "totalbiaya": "123500",
+      "totalm": "15"
+    },
+    "S-8": {
+      "badmin": "11000",
+      "blok": "S-8",
+      "makhir": "6",
+      "mawal": "3",
+      "name": "Cahayu",
+      "periodeterakhir": "November 2021",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "33500",
+      "tarifkub": "7500",
+      "totalbiaya": "33500",
+      "totalm": "3"
+    },
+    "S-9": {
+      "badmin": "11000",
+      "blok": "S-9",
+      "makhir": "1935",
+      "mawal": "1921",
+      "name": "Bagus Sulaiman",
+      "periodeterakhir": "November 2021",
+      "pot": "0",
+      "status": "Belum",
+      "tagihan": "116000",
+      "tarifkub": "7500",
+      "totalbiaya": "116000",
+      "totalm": "12"
+    }
+  },
+  "data_pembayaran": {
+    "Agustus 2020": {
+      "A-03": {
+        "blok": "A-03",
+        "makhir": "812",
+        "mawal": "808",
+        "periode": "Agustus 2020",
+        "total_tagihan": "28700"
+      },
+      "A-12": {
+        "blok": "A-12",
+        "periode": "Agustus 2020"
+      }
+    },
+    "Juli 2020": {
+      "A-03": {
+        "blok": "A-03",
+        "makhir": "808",
+        "mawal": "800",
+        "periode": "Juli 2020",
+        "total_tagihan": "49700"
+      },
+      "A-12": {
+        "blok": "A-12",
+        "makhir": "1350",
+        "mawal": "1339",
+        "periode": "Juli 2020",
+        "total_tagihan": "65450"
+      }
+    },
+    "Juni 2020": {
+      "A-03": {
+        "blok": "A-03",
+        "makhir": "800",
+        "mawal": "792",
+        "periode": "Juni 2020",
+        "total_tagihan": "49700"
+      },
+      "A-09": {
+        "blok": "A-09",
+        "periode": "Juni 2020",
+        "total_tagihan": "10000"
+      },
+      "A-12": {
+        "blok": "A-12",
+        "makhir": "1314",
+        "mawal": "1289",
+        "periode": "Juni 2020",
+        "total_tagihan": "138950"
+      }
+    },
+    "September 2020": {
+      "A-03": {
+        "blok": "A-03",
+        "makhir": "820",
+        "mawal": "812",
+        "periode": "September 2020",
+        "total_tagihan": "49700"
+      }
+    }
+  },
+  "data_tagihan": {
+    "Agustus 2020": {
+      "A-03": {
+        "blok": "A-03",
+        "makhir": "812",
+        "mawal": "808",
+        "name": "Oviyanti Mulyana",
+        "periode": "Agustus 2020",
+        "total_tagihan": "28700"
+      }
+    },
+    "Juli 2020": {
+      "A-03": {
+        "blok": "A-03",
+        "makhir": "808",
+        "mawal": "800",
+        "name": "Oviyanti Mulyana",
+        "periode": "Juli 2020",
+        "total_tagihan": "49700"
+      },
+      "A-12": {
+        "blok": "A-12",
+        "makhir": "1350",
+        "mawal": "1339",
+        "name": "Teguh Santoso",
+        "periode": "Juli 2020",
+        "total_tagihan": "65450"
+      }
+    },
+    "Juni 2020": {
+      "A-03": {
+        "blok": "A-03",
+        "makhir": "800",
+        "mawal": "792",
+        "name": "Oviyanti Mulyana",
+        "periode": "Juni 2020",
+        "total_tagihan": "49700"
+      },
+      "A-07_08": {
+        "blok": "A-07_08",
+        "makhir": "881",
+        "mawal": "853",
+        "name": "Asep Indrawan",
+        "periode": "Juni 2020",
+        "total_tagihan": "154700"
+      },
+      "A-12": {
+        "blok": "A-12",
+        "makhir": "1314",
+        "mawal": "1289",
+        "name": "Teguh Santoso",
+        "periode": "Juni 2020",
+        "total_tagihan": "138950"
+      },
+      "A-14": {
+        "blok": "A-14",
+        "makhir": "997",
+        "mawal": "987",
+        "name": "Suryana",
+        "periode": "Juni 2020",
+        "total_tagihan": "60200"
+      }
+    },
+    "November 2021": {
+      "S-1": {
+        "blok": "S-1",
+        "makhir": "473",
+        "mawal": "467",
+        "name": "Wahyu Nugroho",
+        "periode": "November 2021",
+        "total_tagihan": "56000"
+      },
+      "S-10": {
+        "blok": "S-10",
+        "makhir": "1061",
+        "mawal": "1049",
+        "name": "Ilham Mustofa",
+        "periode": "November 2021",
+        "total_tagihan": "101000"
+      },
+      "S-2": {
+        "blok": "S-2",
+        "makhir": "885",
+        "mawal": "875",
+        "name": "Risna Kurniawati",
+        "periode": "November 2021",
+        "total_tagihan": "86000"
+      },
+      "S-3": {
+        "blok": "S-3",
+        "makhir": "35",
+        "mawal": "32",
+        "name": "Jaenudin",
+        "periode": "November 2021",
+        "total_tagihan": "33500"
+      },
+      "S-4": {
+        "blok": "S-4",
+        "makhir": "68",
+        "mawal": "60",
+        "name": "M Aris",
+        "periode": "November 2021",
+        "total_tagihan": "71000"
+      },
+      "S-5": {
+        "blok": "S-5",
+        "makhir": "216",
+        "mawal": "201",
+        "name": "Dedi Wahyudi",
+        "periode": "November 2021",
+        "total_tagihan": "123500"
+      },
+      "S-6": {
+        "blok": "S-6",
+        "makhir": "90",
+        "mawal": "85",
+        "name": "Hermansyah",
+        "periode": "November 2021",
+        "total_tagihan": "48500"
+      },
+      "S-7": {
+        "blok": "S-7",
+        "makhir": "695",
+        "mawal": "680",
+        "name": "Ishma Cynthia",
+        "periode": "November 2021",
+        "total_tagihan": "123500"
+      },
+      "S-8": {
+        "blok": "S-8",
+        "makhir": "6",
+        "mawal": "3",
+        "name": "Cahayu",
+        "periode": "November 2021",
+        "total_tagihan": "33500"
+      },
+      "S-9": {
+        "blok": "S-9",
+        "makhir": "1935",
+        "mawal": "1921",
+        "name": "Bagus Sulaiman",
+        "periode": "November 2021",
+        "total_tagihan": "116000"
+      }
+    },
+    "Oktober 2020": {
+      "A-03": {
+        "blok": "A-03",
+        "makhir": "799",
+        "mawal": "796",
+        "name": "Oviyanti Mulyana",
+        "periode": "Oktober 2020",
+        "total_tagihan": "33500"
+      },
+      "C-76": {
+        "blok": "C-76",
+        "makhir": "1130",
+        "mawal": "1120",
+        "name": "Agung Wahana",
+        "periode": "Oktober 2020",
+        "total_tagihan": "86000"
+      }
+    },
+    "September 2020": {
+      "A-03": {
+        "blok": "A-03",
+        "makhir": "796",
+        "mawal": "794",
+        "name": "Oviyanti Mulyana",
+        "periode": "September 2020",
+        "total_tagihan": "26000"
+      },
+      "C-76": {
+        "blok": "C-76",
+        "makhir": "1120",
+        "mawal": "1116",
+        "name": "Agung Wahana",
+        "periode": "September 2020",
+        "total_tagihan": "41000"
+      }
+    },
+    "September 2021": {
+      "A-3": {
+        "blok": "A-3",
+        "makhir": "834",
+        "mawal": "824",
+        "name": "Yus Diansyah",
+        "periode": "September 2021",
+        "total_tagihan": "86000"
+      },
+      "A-4": {
+        "blok": "A-4",
+        "makhir": "93",
+        "mawal": "88",
+        "name": "Nia Lusiana",
+        "periode": "September 2021",
+        "total_tagihan": "48500"
+      },
+      "A-6": {
+        "blok": "A-6",
+        "makhir": "760",
+        "mawal": "749",
+        "name": "Ryan Prakoso",
+        "periode": "September 2021",
+        "total_tagihan": "93500"
+      },
+      "A-7": {
+        "blok": "A-7",
+        "makhir": "735",
+        "mawal": "732",
+        "name": "Aika Marah",
+        "periode": "September 2021",
+        "total_tagihan": "33500"
+      },
+      "A-8": {
+        "blok": "A-8",
+        "makhir": "655",
+        "mawal": "631",
+        "name": "Linda Yani",
+        "periode": "September 2021",
+        "total_tagihan": "191000"
+      },
+      "B-3": {
+        "blok": "B-3",
+        "makhir": "90",
+        "mawal": "65",
+        "name": "Nina Suhaemi",
+        "periode": "September 2021",
+        "total_tagihan": "198500"
+      },
+      "B-5": {
+        "blok": "B-5",
+        "makhir": "32",
+        "mawal": "30",
+        "name": "Putra Zul",
+        "periode": "September 2021",
+        "total_tagihan": "26000"
+      },
+      "B-6": {
+        "blok": "B-6",
+        "makhir": "292",
+        "mawal": "277",
+        "name": "Asep",
+        "periode": "September 2021",
+        "total_tagihan": "123500"
+      },
+      "B-7": {
+        "blok": "B-7",
+        "makhir": "720",
+        "mawal": "705",
+        "name": "Rizky Farenda",
+        "periode": "September 2021",
+        "total_tagihan": "123500"
+      },
+      "B-8": {
+        "blok": "B-8",
+        "makhir": "405",
+        "mawal": "395",
+        "name": "Dewi Aryanti",
+        "periode": "September 2021",
+        "total_tagihan": "86000"
+      }
+    }
+  },
+  "data_transaksi": {
+    "A-03": {
+      "Agustus 2020": {
+        "blok": "A-03",
+        "makhir": "812",
+        "mawal": "808",
+        "periode": "Agustus 2020",
+        "total_tagihan": "28700"
+      },
+      "Juli 2020": {
+        "blok": "A-03",
+        "makhir": "808",
+        "mawal": "800",
+        "periode": "Juli 2020",
+        "total_tagihan": "49700"
+      },
+      "Juni 2020": {
+        "blok": "A-03",
+        "makhir": "800",
+        "mawal": "792",
+        "periode": "Juni 2020",
+        "total_tagihan": "49700"
+      },
+      "September 2020": {
+        "blok": "A-03",
+        "makhir": "820",
+        "mawal": "812",
+        "periode": "September 2020",
+        "total_tagihan": "49700"
+      }
+    },
+    "A-12": {
+      "Agustus 2020": {
+        "blok": "A-12",
+        "periode": "Agustus 2020"
+      },
+      "Juli 2020": {
+        "blok": "A-12",
+        "makhir": "1350",
+        "mawal": "1339",
+        "periode": "Juli 2020",
+        "total_tagihan": "65450"
+      },
+      "Juni 2020": {
+        "blok": "A-12",
+        "makhir": "1314",
+        "mawal": "1289",
+        "periode": "Juni 2020",
+        "total_tagihan": "138950"
+      }
+    }
+  },
+  "id_token": {
+    "A-03": {
+      "blok": "A-03",
+      "token": "elg_FpRDSq-VRI_XLoiVn7:APA91bHKwhICiEkapC6jYjQ3xD7Zxqp4FKYLiZFYQ6f-B2NUyGfT14t7Riw4-sRFD-go7MgXoU88-03AcU_W8bXOqK-ZIy5_yPWL9FTnESHzx9wr29BUpd5DGMjYQraYwqGn4o5TpY7U"
+    },
+    "A-07_08": {
+      "blok": "A-07_08",
+      "token": "eqP9vT0TTkiQQVT4FXa2ad:APA91bElGtkDol8Q6PL_Av3F6b-C7sGboHYFV1B0ZPgqreOUoGa-b6VC05Kz4JsPF_HtEfWK-E0w4JN3w0gbO0vOO3lLj21kRCMTvD0tKVEYtLeuUhK02f51cGZdh0A9j4wuis_KJlyO"
+    },
+    "A-12": {
+      "blok": "A-12",
+      "token": "dCBS3mehS4W5mkO9pubjUK:APA91bGgW35SCYDtdgQXu1zE52X0XnyyVEbvBQCg3xntMtVD0codbNOWvJVzgHufhC1o-1XFrKVSE1GhtbU5MjDX_z0yLDUpJIDBx01DSfHI5NFVhZjEbxq3qwEB5q1FxoSkbvZL9-En"
+    },
+    "C-48": {
+      "blok": "C-48",
+      "token": "f8RK4NXURna-6bXqLbvdlG:APA91bGqs_XCTOUqSyjGsZILNdlYShQV_HGwqkvUiHXztMVLA7mrNLWwRVto1AskUKLzJF60OGX_anhICuv63x7MZGygZztr_U3zH9aAD93LPHTeOLniwIEBUZfMe2ft1LKfXZMkrCsb"
+    },
+    "C-76": {
+      "blok": "C-76",
+      "token": "dCBS3mehS4W5mkO9pubjUK:APA91bGgW35SCYDtdgQXu1zE52X0XnyyVEbvBQCg3xntMtVD0codbNOWvJVzgHufhC1o-1XFrKVSE1GhtbU5MjDX_z0yLDUpJIDBx01DSfHI5NFVhZjEbxq3qwEB5q1FxoSkbvZL9-En"
+    }
+  },
+  "id_token_admin": {
+    "admin0": {
+      "token": "djN6IfY0Q1mVnzhbaWmQ1H:APA91bHpBMR_WZbKQLaIih5IcAkvqKquUqb4dqI2mk9E-wqcgFP6Ajn_Oh6KKy6lMXYs-UoiKp4NXGq2REBmxpXDV3e04site_TxTMo051uyG3jkbilvm9iWVDab2oTY47lE-0qg5IXM",
+      "username": "admin0"
+    },
+    "admin1": {
+      "token": "cKzir24yTuaejo7lC0azFQ:APA91bGA563DNBmYPriXVV85oIN3TjLkWMCnwhVrycpHKMl6MibrhqzJOIyB2ctGq9XGdHc3SCqLT3Y9cguSB3NMJH7Xol29WrNoywaWeF6CEtNgXxseahfiF_-J2jEN2QUwHFmC4wqQ",
+      "username": "admin1"
+    }
+  },
+  "id_token_pencatat": {
+    "pct0": {
+      "token": "d2h796bmSdGE0uQuUfC4nc:APA91bFb6rUNKtnPEiBrcRQY-bAqvjewMyO1GN2HT-d-yAgA2wOTr2FRxZFYDDN7VhOawtmL_r_dT7iYivpJO32N6Z0-9D2_rdenYl4FiHTr4leQ50u-ZigCK6RLQgoecgP1mjMUWR8s",
+      "username": "pct0"
+    }
+  },
+  "keuangan": {
+    "2022-08": {
+      "-MuJy3CKabc7dwYHWwpy": {
+        "jenis": "Pemasukan",
+        "keterangan": "subsidi",
+        "nominal": "Rp. 234.567.890",
+        "periode": "2022-08",
+        "tanggal": "2022-01-26"
+      },
+      "-MuK-MlLgtBgdk7OoAeq": {
+        "jenis": "Pengeluaran",
+        "keterangan": "rgddngf",
+        "nominal": "Rp. 343.465",
+        "periode": "2022-08",
+        "tanggal": "2022-08-08"
+      },
+      "-MuK-W87tGRUZ8GtlU7K": {
+        "jenis": "Pengeluaran",
+        "keterangan": "dfvdgfgt",
+        "nominal": "Rp. 4.564.556",
+        "periode": "2022-08",
+        "tanggal": "2022-01-04"
+      },
+      "-MuK-m2OdUKGVdEDrtBW": {
+        "jenis": "Pemasukan",
+        "keterangan": "ythg",
+        "nominal": "Rp. 566.734",
+        "periode": "2022-08",
+        "tanggal": "2022-02-05"
+      },
+      "-MuK1qb3SB-ii4PAUoD6": {
+        "jenis": "Pemasukan",
+        "keterangan": "gsdfdh",
+        "nominal": "Rp. 346.547",
+        "periode": "2022-08",
+        "tanggal": "2022-03-16"
+      },
+      "-MuL423zLPHy3o1_TAjU": {
+        "jenis": "Pengeluaran",
+        "keterangan": "wegdg",
+        "nominal": "Rp. 34.545",
+        "periode": "2022-08",
+        "tanggal": "2021-10-14"
+      },
+      "-MuL4FmYvU3DoTgIqhy8": {
+        "jenis": "Pengeluaran",
+        "keterangan": "wegdg",
+        "nominal": "Rp. 34.545",
+        "periode": "2022-08",
+        "tanggal": "2021-10-14"
+      },
+      "-MuL4Kn7YvWC45-8FDg0": {
+        "jenis": "Pengeluaran",
+        "keterangan": "dfb",
+        "nominal": "Rp. 34.556",
+        "periode": "2022-08",
+        "tanggal": "2021-10-14"
+      },
+      "-MuL4Xoa4GwHbiRKUf1X": {
+        "jenis": "Pemasukan",
+        "keterangan": "ergffr",
+        "nominal": "Rp. 324.645",
+        "periode": "2022-08",
+        "tanggal": "2021-09-30"
+      },
+      "-MuL4blvME3IJT8C2OG6": {
+        "jenis": "Pemasukan",
+        "keterangan": "investasi",
+        "nominal": "Rp. 34.546",
+        "periode": "2022-08",
+        "tanggal": "2021-09-30"
+      },
+      "-MuL5MkXgBt7HrxYutYC": {
+        "jenis": "Pemasukan",
+        "keterangan": "bfdgfbn",
+        "nominal": "Rp. 234.567",
+        "periode": "2022-08",
+        "tanggal": "2021-10-09"
+      },
+      "-MuL5VWsF1IpTVzzzdSu": {
+        "jenis": "Pengeluaran",
+        "keterangan": "fsrgrgrth",
+        "nominal": "Rp. 3.456.756",
+        "periode": "2022-08",
+        "tanggal": "2021-10-09"
+      }
+    },
+    "Juli 2020": {
+      "-MvIwq4YK0xgcVd9VFKy": {
+        "jenis": "pengeluaran",
+        "keterangan": "rtt",
+        "nominal": "34568767",
+        "periode": "Juli 2020",
+        "tanggal": "2022-02-09"
+      }
+    },
+    "Juni 2020": {
+      "-MDqW8KMuoLSui2uIa4Q": {
+        "jenis": "pengeluaran",
+        "keterangan": "Makan",
+        "nominal": "50000",
+        "periode": "Juni 2020",
+        "tanggal": "2020-06-12"
+      },
+      "-MDqWOZtfzhTBSvd_Pa-": {
+        "jenis": "pemasukan",
+        "keterangan": "Pembayaran tagihan B-55",
+        "nominal": "30000",
+        "periode": "Juni 2020",
+        "tanggal": "2020-06-12"
+      },
+      "-MFE3Y6wOmt02lx4ggij": {
+        "jenis": "pengeluaran",
+        "keterangan": "Pembelian Token Listrik",
+        "nominal": "600000",
+        "periode": "Juni 2020",
+        "tanggal": "2020-08-21"
+      },
+      "2020-06-10": {
+        "jenis": "pemasukan",
+        "keterangan": "Pembayaran tagihan blok A-10",
+        "nominal": "60000",
+        "periode": "Juni 2020",
+        "tanggal": "2020-06-10"
+      }
+    }
+  },
+  "pelanggan_baru": {
+    "-MvIzLKfCkyfSJlFfhME": {
+      "blok": "cj7",
+      "nama_pelanggan": "chris"
+    },
+    "-N3K1imIdqqhMWt0Y8aJ": {
+      "blok": "a1",
+      "nama_pelanggan": "putri"
+    },
+    "-N3K22LsLcIb3UmIdSPU": {
+      "blok": "a10",
+      "nama_pelanggan": "deana"
+    },
+    "-N3K72PrqsGuilwj_gSZ": {
+      "blok": "fany",
+      "nama_pelanggan": "t1"
+    }
+  },
+  "tb_admin": {
+    "admin0": {
+      "nama_admin": "Admin Air",
+      "no_admin": "082187564390",
+      "password": "123",
+      "username": "admin0"
+    },
+    "admin1": {
+      "nama_admin": "Admin Cibiru",
+      "no_admin": "085673245889",
+      "password": "123",
+      "username": "admin1"
+    }
+  },
+  "tb_pencatat": {
+    "pct0": {
+      "nama_pencatat": "Pencatat Cipadung",
+      "no_pencatat": "089976432288",
+      "password": "123",
+      "username": "pct0"
+    }
+  },
+  "tb_user": {
+    "a03": {
+      "blok": "A-03",
+      "name": "Oviyanti Mulyana",
+      "password": "123456",
+      "username": "a03"
+    },
+    "a07": {
+      "blok": "A-07_08",
+      "name": "Asep Indrawan",
+      "password": "123456",
+      "username": "a07"
+    },
+    "a12": {
+      "blok": "A-12",
+      "name": "Teguh Santoso",
+      "password": "123456",
+      "username": "a12"
+    },
+    "a14": {
+      "blok": "A-14",
+      "name": "Suryana",
+      "password": "123456",
+      "username": "a14"
+    },
+    "a17": {
+      "blok": "A-17",
+      "name": "Fajar",
+      "password": "123456",
+      "username": "a17"
+    },
+    "a19": {
+      "blok": "A-19",
+      "name": "Yuli Indra Gunawan",
+      "password": "123456",
+      "username": "a19"
+    },
+    "a20": {
+      "blok": "A-20",
+      "name": "Nonoy Handayani",
+      "password": "123456",
+      "username": "a20"
+    },
+    "a21": {
+      "blok": "A-21",
+      "name": "Ryan Wardhana",
+      "password": "123456",
+      "username": "a21"
+    },
+    "a22": {
+      "blok": "A-22",
+      "name": "Budi Lesmana",
+      "password": "123456",
+      "username": "a22"
+    },
+    "a23": {
+      "blok": "A-23",
+      "name": "",
+      "password": "123456",
+      "username": "a23"
+    },
+    "a24": {
+      "blok": "A-24",
+      "name": "Daniez Pratio",
+      "password": "123456",
+      "username": "a24"
+    },
+    "a26": {
+      "blok": "A-26",
+      "name": "Nia Lusiana",
+      "password": "123456",
+      "username": "a26"
+    },
+    "a39": {
+      "blok": "A-39",
+      "name": "Nur Aliah Oktaviani",
+      "password": "123456",
+      "username": "a39"
+    },
+    "a40": {
+      "blok": "A-40",
+      "name": "Butet Sariaksih",
+      "password": "123456",
+      "username": "a40"
+    },
+    "a41": {
+      "blok": "A-41",
+      "name": "Yulhandra Eka S",
+      "password": "123456",
+      "username": "a41"
+    },
+    "a42": {
+      "blok": "A-42",
+      "name": "Dewi Aryanti",
+      "password": "123456",
+      "username": "a42"
+    },
+    "a43": {
+      "blok": "A-43",
+      "name": "R. Kiki Aziz",
+      "password": "123456",
+      "username": "a43"
+    },
+    "a44": {
+      "blok": "A-44",
+      "name": "Ari Ariefani",
+      "password": "123456",
+      "username": "a44"
+    },
+    "a45": {
+      "blok": "A-45",
+      "name": "Cece",
+      "password": "123456",
+      "username": "a45"
+    },
+    "a46": {
+      "blok": "A-46",
+      "name": "Ramzi Dasteti",
+      "password": "123456",
+      "username": "a46"
+    },
+    "a47": {
+      "blok": "A-47",
+      "name": "Mely Melanjaya",
+      "password": "123456",
+      "username": "a47"
+    },
+    "a48": {
+      "blok": "A-48",
+      "name": "Archi Yusafat",
+      "password": "123456",
+      "username": "a48"
+    },
+    "a49": {
+      "blok": "A-49",
+      "name": "Jaka Silistijana",
+      "password": "123456",
+      "username": "a49"
+    },
+    "a50": {
+      "blok": "A-50",
+      "name": "Dede Slamet Muharam",
+      "password": "123456",
+      "username": "a50"
+    },
+    "a51": {
+      "blok": "A-51",
+      "name": "Nurul Hayati",
+      "password": "123456",
+      "username": "a51"
+    },
+    "a53": {
+      "blok": "A-53",
+      "name": "Endi",
+      "password": "123456",
+      "username": "a53"
+    },
+    "a55": {
+      "blok": "A-55",
+      "name": "Asep",
+      "password": "123456",
+      "username": "a55"
+    },
+    "a56": {
+      "blok": "A-56",
+      "name": "Argo",
+      "password": "123456",
+      "username": "a56"
+    },
+    "a57": {
+      "blok": "A-57",
+      "name": "Melia Febrianti",
+      "password": "123456",
+      "username": "a57"
+    },
+    "a58": {
+      "blok": "A-58",
+      "name": "Didi Kurniawan",
+      "password": "123456",
+      "username": "a58"
+    },
+    "a59": {
+      "blok": "A-59",
+      "name": "Arief Susanto",
+      "password": "123456",
+      "username": "a59"
+    },
+    "a61": {
+      "blok": "A-61",
+      "name": "Sandy Rudianto",
+      "password": "123456",
+      "username": "a61"
+    },
+    "a62": {
+      "blok": "A-62",
+      "name": "Sutriyono",
+      "password": "123456",
+      "username": "a62"
+    },
+    "a67": {
+      "blok": "A-67",
+      "name": "Heru Haryadi",
+      "password": "123456",
+      "username": "a67"
+    },
+    "a68": {
+      "blok": "A-68",
+      "name": "",
+      "password": "123456",
+      "username": "a68"
+    },
+    "a72": {
+      "blok": "A-72",
+      "name": "Wahyudi Joko Santoso",
+      "password": "123456",
+      "username": "a72"
+    },
+    "a73": {
+      "blok": "A-73",
+      "name": "Nina Sumarni",
+      "password": "123456",
+      "username": "a73"
+    },
+    "a77": {
+      "blok": "A-77",
+      "name": "Beny Setiyanto",
+      "password": "123456",
+      "username": "A-77"
+    },
+    "a78": {
+      "blok": "A-78",
+      "name": "Ibu Devi",
+      "password": "123456",
+      "username": "a78"
+    },
+    "a79": {
+      "blok": "A-79",
+      "name": "Drs. Faisal",
+      "password": "123456",
+      "username": "a79"
+    },
+    "a80": {
+      "blok": "A-80",
+      "name": "Putra",
+      "password": "123456",
+      "username": "a80"
+    },
+    "a83": {
+      "blok": "A-83",
+      "name": "Fahmy Afriansyah",
+      "password": "123456",
+      "username": "a83"
+    },
+    "a85": {
+      "blok": "A-85",
+      "name": "Teguh Riyanto",
+      "password": "123456",
+      "username": "a85"
+    },
+    "a86": {
+      "blok": "A-86",
+      "name": "Drs. Nani Rohmani",
+      "password": "123456",
+      "username": "a86"
+    },
+    "a88": {
+      "blok": "A-88",
+      "name": "Linda Yani",
+      "password": "123456",
+      "username": "a88"
+    },
+    "a90": {
+      "blok": "A-90",
+      "name": "Ibu Alfi",
+      "password": "123456",
+      "username": "a90"
+    },
+    "a93": {
+      "blok": "A-93",
+      "name": "Aditya",
+      "password": "123456",
+      "username": "a93"
+    },
+    "b02": {
+      "blok": "B-02",
+      "name": "Muhammad Hanafia",
+      "password": "123456",
+      "username": "b02"
+    },
+    "b03": {
+      "blok": "B-03",
+      "name": "Ernest Christika",
+      "password": "123456",
+      "username": "b03"
+    },
+    "b04": {
+      "blok": "B-04",
+      "name": "I Nyoman Darmana",
+      "password": "123456",
+      "username": "b04"
+    },
+    "b07": {
+      "blok": "B-07",
+      "name": "Tugiman",
+      "password": "123456",
+      "username": "b07"
+    },
+    "b10": {
+      "blok": "B-10",
+      "name": "Priono",
+      "password": "123456",
+      "username": "b10"
+    },
+    "b100": {
+      "blok": "B-100",
+      "name": "Rifka Kusumawati",
+      "password": "123456",
+      "username": "b100"
+    },
+    "b104": {
+      "blok": "B-104",
+      "name": "Windu Zulkarnean O",
+      "password": "123456",
+      "username": "b104"
+    },
+    "b105": {
+      "blok": "B-105",
+      "name": "Ros Roswati",
+      "password": "123456",
+      "username": "b105"
+    },
+    "b106": {
+      "blok": "B-106",
+      "name": "Rina Agustiana",
+      "password": "123456",
+      "username": "b106"
+    },
+    "b109": {
+      "blok": "B-109",
+      "name": "Ibrahim",
+      "password": "123456",
+      "username": "b109"
+    },
+    "b11": {
+      "blok": "B-11",
+      "name": "Meliana Yukiki/Yoyoh",
+      "password": "123456",
+      "username": "b11"
+    },
+    "b113": {
+      "blok": "B-113",
+      "name": "Cecep Budi Nugraha",
+      "password": "123456",
+      "username": "b113"
+    },
+    "b114": {
+      "blok": "B-114",
+      "name": "M. Muhis",
+      "password": "123456",
+      "username": "b114"
+    },
+    "b115": {
+      "blok": "B-115",
+      "name": "Dedi",
+      "password": "b115"
+    },
+    "b117": {
+      "blok": "B-117",
+      "name": "Triswoto",
+      "password": "123456",
+      "username": "b117"
+    },
+    "b12": {
+      "blok": "B-12",
+      "name": "R. Rizkiy Farenda",
+      "password": "123456",
+      "username": "b12"
+    },
+    "b121": {
+      "blok": "B-121",
+      "name": "Wawan B",
+      "password": "123456",
+      "username": "b121"
+    },
+    "b127": {
+      "blok": "B-127",
+      "name": "Lestari/Agung Mungki",
+      "password": "123456",
+      "username": "b127"
+    },
+    "b130": {
+      "blok": "B-130",
+      "name": "Avi Hermanto",
+      "password": "123456",
+      "username": "b130"
+    },
+    "b16": {
+      "blok": "B-16",
+      "name": "",
+      "password": "123456",
+      "username": "b16"
+    },
+    "b18": {
+      "blok": "B-18",
+      "name": "Budi",
+      "password": "123456",
+      "username": "b18"
+    },
+    "b19": {
+      "blok": "B-19",
+      "name": "Setiyono",
+      "password": "123456",
+      "username": "b19"
+    },
+    "b21": {
+      "blok": "B-21",
+      "name": "Rofik Insani",
+      "password": "123456",
+      "username": "b21"
+    },
+    "b22": {
+      "blok": "B-22",
+      "name": "Gun-Gun Gunawan",
+      "password": "123456",
+      "username": "b22"
+    },
+    "b24": {
+      "blok": "B-24",
+      "name": "Yani Iryani Maksoedi",
+      "password": "123456",
+      "username": "b24"
+    },
+    "b25": {
+      "blok": "B-25",
+      "name": "Juliani",
+      "password": "123456",
+      "username": "b25"
+    },
+    "b26": {
+      "blok": "B-26",
+      "name": "Yusuf Abiyoko",
+      "password": "123456",
+      "username": "b26"
+    },
+    "b27": {
+      "blok": "B-27",
+      "name": "Asep Nugraha",
+      "password": "123456",
+      "username": "b27"
+    },
+    "b28": {
+      "blok": "B-28",
+      "name": "Rachmat Setiawan",
+      "password": "123456",
+      "username": "b28"
+    },
+    "b32": {
+      "blok": "B-32",
+      "name": "Mariono",
+      "password": "123456",
+      "username": "b32"
+    },
+    "b33": {
+      "blok": "B-33",
+      "name": "Ibu Nenden",
+      "password": "123456",
+      "username": "b33"
+    },
+    "b38": {
+      "blok": "B-38",
+      "name": "Arif Budiman",
+      "password": "123456",
+      "username": "b38"
+    },
+    "b44": {
+      "blok": "B-44",
+      "name": "H. Jamal Ahmad Maretan",
+      "password": "123456",
+      "username": "b44"
+    },
+    "b46": {
+      "blok": "B-46",
+      "name": "Upik A P",
+      "password": "123456",
+      "username": "b46"
+    },
+    "b47": {
+      "blok": "B-47",
+      "name": "Josaf Purnama",
+      "password": "123456",
+      "username": "b47"
+    },
+    "b48": {
+      "blok": "B-48",
+      "name": "Darmawan",
+      "password": "123456",
+      "username": "b48"
+    },
+    "b49": {
+      "blok": "B-49",
+      "name": "Haris Rohman",
+      "password": "123456",
+      "username": "b49"
+    },
+    "b55": {
+      "blok": "B-55",
+      "name": "Chasani",
+      "password": "123456",
+      "username": "b55"
+    },
+    "b56": {
+      "blok": "B-56",
+      "name": "Indra Gunawan",
+      "password": "123456",
+      "username": "b56"
+    },
+    "b57": {
+      "blok": "B-57",
+      "name": "Hari Sunarto",
+      "password": "123456",
+      "username": "b57"
+    },
+    "b58": {
+      "blok": "B-58",
+      "name": "Lya Arliani",
+      "password": "123456",
+      "username": "b58"
+    },
+    "b59": {
+      "blok": "B-59_60",
+      "name": "Nursalim",
+      "password": "123456",
+      "username": "b59"
+    },
+    "b62": {
+      "blok": "B-62",
+      "name": "",
+      "password": "123456",
+      "username": "b62"
+    },
+    "b63": {
+      "blok": "B-63",
+      "name": "Ela Helariani",
+      "password": "123456",
+      "username": "b63"
+    },
+    "b64": {
+      "blok": "B-64",
+      "name": "H. Adiyono",
+      "password": "123456",
+      "username": "b64"
+    },
+    "b66": {
+      "blok": "B-66",
+      "name": "Ridwan Setiawan",
+      "password": "123456",
+      "username": "b66"
+    },
+    "b68": {
+      "blok": "B-68",
+      "name": "Asep",
+      "password": "123456",
+      "username": "b68"
+    },
+    "b69": {
+      "blok": "B-69",
+      "name": "Muslim",
+      "password": "123456",
+      "username": "b69"
+    },
+    "b71": {
+      "blok": "B-71",
+      "name": "M. Sulhan",
+      "password": "123456",
+      "username": "b71"
+    },
+    "b72": {
+      "blok": "B-72",
+      "name": "",
+      "password": "123456",
+      "username": "b72"
+    },
+    "b76": {
+      "blok": "B-76",
+      "name": "Titis Kurniawan",
+      "password": "123456",
+      "username": "b76"
+    },
+    "b77": {
+      "blok": "B-77",
+      "name": "Deviana Indarti",
+      "password": "123456",
+      "username": "b77"
+    },
+    "b82": {
+      "blok": "B-82",
+      "name": "Saptono/ Pipit Iriani",
+      "password": "123456",
+      "username": "b82"
+    },
+    "b83": {
+      "blok": "B-83",
+      "name": "Mulyadi",
+      "password": "123456",
+      "username": "b83"
+    },
+    "b84": {
+      "blok": "B-84",
+      "name": "Tarkadirya",
+      "password": "123456",
+      "username": "b84"
+    },
+    "b85": {
+      "blok": "B-85",
+      "name": "Bachtiar Ibrahim",
+      "password": "123456",
+      "username": "b85"
+    },
+    "b86": {
+      "blok": "B-86",
+      "name": "Sri Noviani Rahayu",
+      "password": "123456",
+      "username": "b86"
+    },
+    "b87": {
+      "blok": "B-87",
+      "name": "Yati Martyati",
+      "password": "123456",
+      "username": "b87"
+    },
+    "b88": {
+      "blok": "B-88",
+      "name": "Nenden Herliana",
+      "password": "123456",
+      "username": "b88"
+    },
+    "b89": {
+      "blok": "B-89",
+      "name": "Edih",
+      "password": "123456",
+      "username": "b89"
+    },
+    "b90": {
+      "blok": "B-90",
+      "name": "Siti Wartini",
+      "password": "123456",
+      "username": "b90"
+    },
+    "b91": {
+      "blok": "B-91",
+      "name": "Cupian",
+      "password": "123456",
+      "username": "b91"
+    },
+    "b92": {
+      "blok": "B-92",
+      "name": "Lumban Tobing",
+      "password": "123456",
+      "username": "b92"
+    },
+    "b94": {
+      "blok": "B-94",
+      "name": "Muida Aryani",
+      "password": "123456",
+      "username": "b94"
+    },
+    "b95": {
+      "blok": "B-95",
+      "name": "Rita",
+      "password": "123456",
+      "username": "b95"
+    },
+    "b96": {
+      "blok": "B-96",
+      "name": "Iyan Nurmalia",
+      "password": "123456",
+      "username": "b96"
+    },
+    "b99": {
+      "blok": "B-99",
+      "name": "Risnanta",
+      "password": "123456",
+      "username": "b99"
+    },
+    "c07": {
+      "blok": "C-07",
+      "name": "Rana Rahmada",
+      "password": "123456",
+      "username": "c07"
+    },
+    "c08": {
+      "blok": "C-08",
+      "name": "Adi",
+      "password": "123456",
+      "username": "c08"
+    },
+    "c118": {
+      "blok": "C-118",
+      "name": "Lian",
+      "password": "123456",
+      "username": "c118"
+    },
+    "c15": {
+      "blok": "C-15",
+      "name": "",
+      "password": "123456",
+      "username": "c15"
+    },
+    "c18": {
+      "blok": "C-18",
+      "name": "",
+      "password": "123456",
+      "username": "c18"
+    },
+    "c20": {
+      "blok": "C-20",
+      "name": "Endon",
+      "password": "123456",
+      "username": "c20"
+    },
+    "c25": {
+      "blok": "C-25",
+      "name": "Neng Intan",
+      "password": "123456",
+      "username": "c25"
+    },
+    "c26": {
+      "blok": "C-26",
+      "name": "Lisa",
+      "password": "123456",
+      "username": "c26"
+    },
+    "c27": {
+      "blok": "C-27",
+      "name": "Wahyudin",
+      "password": "123456",
+      "username": "c27"
+    },
+    "c28": {
+      "blok": "C-28",
+      "name": "Heru Supriatno",
+      "password": "123456",
+      "username": "c28"
+    },
+    "c30": {
+      "blok": "C-30",
+      "name": "Rival",
+      "password": "123456",
+      "username": "c30"
+    },
+    "c31": {
+      "blok": "C-31",
+      "name": "Ambardi",
+      "password": "123456",
+      "username": "c31"
+    },
+    "c32": {
+      "blok": "C-32",
+      "name": "Reni Nuraeni",
+      "password": "123456",
+      "username": "c32"
+    },
+    "c33": {
+      "blok": "C-33",
+      "name": "Rudi S Soeganda",
+      "password": "123456",
+      "username": "c33"
+    },
+    "c34": {
+      "blok": "C-34",
+      "name": "Yosi Arman",
+      "password": "123456",
+      "username": "c34"
+    },
+    "c35": {
+      "blok": "C-35",
+      "name": "Tatan Ardiyanto",
+      "password": "123456",
+      "username": "c35"
+    },
+    "c36": {
+      "blok": "C-36",
+      "name": "Agus Sutrisna",
+      "password": "123456",
+      "username": "c36"
+    },
+    "c41": {
+      "blok": "C-41",
+      "name": "Sony Kusnandar",
+      "password": "123456",
+      "username": "C-41"
+    },
+    "c44": {
+      "blok": "C-44",
+      "name": "Dr. Wiganda",
+      "password": "123456",
+      "username": "c44"
+    },
+    "c45": {
+      "blok": "C-45",
+      "name": "Alin",
+      "password": "123456",
+      "username": "c45"
+    },
+    "c46": {
+      "blok": "C-46",
+      "name": "A",
+      "password": "123456",
+      "username": "c46"
+    },
+    "c47": {
+      "blok": "C-47",
+      "name": "A Uronsyah",
+      "password": "123456",
+      "username": "c47"
+    },
+    "c48": {
+      "blok": "C-48",
+      "name": "Cahyono Dwi Astoro",
+      "password": "123456",
+      "username": "c48"
+    },
+    "c51": {
+      "blok": "C-51",
+      "name": "H. Iwan",
+      "password": "123456",
+      "username": "c51"
+    },
+    "c54": {
+      "blok": "C-54",
+      "name": "Erick Yusuf",
+      "password": "123456",
+      "username": "c54"
+    },
+    "c55": {
+      "blok": "C-55",
+      "name": "Erick Yusuf",
+      "password": "123456",
+      "username": "c55"
+    },
+    "c56": {
+      "blok": "C-56",
+      "name": "Erick Yusuf",
+      "password": "123456",
+      "username": "c56"
+    },
+    "c59": {
+      "blok": "C-59",
+      "name": "Drs. Yudi Sudarya",
+      "password": "123456",
+      "username": "c59"
+    },
+    "c61": {
+      "blok": "C-61",
+      "name": "Bey Sapta Utama",
+      "password": "123456",
+      "username": "c61"
+    },
+    "c65": {
+      "blok": "C-65",
+      "name": "Farouk",
+      "password": "123456",
+      "username": "c65"
+    },
+    "c66": {
+      "blok": "C-66",
+      "name": "",
+      "password": "123456",
+      "username": "c66"
+    },
+    "c67": {
+      "blok": "C-67",
+      "name": "Nana Suryana",
+      "password": "123456",
+      "username": "c67"
+    },
+    "c68": {
+      "blok": "C-68",
+      "name": "Farid Rustandi",
+      "password": "123456",
+      "username": "c68"
+    },
+    "c70": {
+      "blok": "C-70",
+      "name": "Irwan Kurniawan",
+      "password": "123456",
+      "username": "c70"
+    },
+    "c73": {
+      "blok": "C-73",
+      "name": "Ida Nuryanti",
+      "password": "123456",
+      "username": "c73"
+    },
+    "c74": {
+      "blok": "C-74",
+      "name": "Fenny Jumiati",
+      "password": "123456",
+      "username": "c74"
+    },
+    "c76": {
+      "blok": "C-76",
+      "name": "Agung Wahana",
+      "password": "123456",
+      "username": "c76"
+    },
+    "c80": {
+      "blok": "C-80",
+      "name": "Djaja Lalana",
+      "password": "123456",
+      "username": "c80"
+    },
+    "c83": {
+      "blok": "C-83",
+      "name": "Nanto",
+      "password": "123456",
+      "username": "c83"
+    },
+    "c96": {
+      "blok": "C-96",
+      "name": "Andri",
+      "password": "123456",
+      "username": "c96"
+    }
+  }
+}
